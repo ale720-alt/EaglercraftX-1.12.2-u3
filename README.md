@@ -44,3 +44,9 @@ Si la pantalla aparece en blanco:
 - Actualiza el navegador
 - Espera unos minutos 
 - O GitHub Pages decidió levantarse de malas ese día
+  
+---
+
+## 👤 Autor
+
+- Creado originalmente por: **PeytonPlayz585**
