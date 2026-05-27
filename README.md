@@ -8,7 +8,7 @@
 1. Entra al repositorio.
 2. Presiona el boton que se encuentra en la parte superior llamado "Code"
 3. Haz click en "Download ZIP"
-6. Luego revisa que se descarge correctamente
+6. Luego revisa que se descarge correctamente.
 
 ---
 
@@ -17,7 +17,7 @@
 - Abre el archivo ZIP y ya estando dentro de el ZIP abre el archivo .html
 - Espera a que cargue
 - ¡Listo! Ya puedes jugar la version mas reciente de Eaglercraft
-- O solo presiona el link que se encuentra debajo de la descripcion para jugar en modo web
+- O solo presiona el link que se encuentra debajo de la descripcion para jugar en modo web.
 
 ---
 
@@ -25,7 +25,7 @@
 
 - Navegador actualizado
 - JavaScript activado
-- Una computadora que no explote al abrir powerpoint
+- Una computadora que no explote al abrir powerpoint.
 
 ---
 
@@ -36,7 +36,7 @@ Funciona en:
 - Chrome
 - Edge
 - Brave
-- Otros navegadores
+- Otros navegadores.
 
 ---
 
@@ -47,7 +47,7 @@ Esta versión usa **WASM-GC**, por lo que puede ser más rápida y estable que *
 Si la pantalla aparece en blanco:
 - Actualiza el navegador
 - Espera unos minutos
-- O puede ser un error del archivo o de _Github pages_. dependiendo si estas jugando en **Archivo** o **Web**
+- O puede ser un error del archivo o de _Github pages_. dependiendo si estas jugando en **Archivo** o en**modo Web**.
   
 ---
 
