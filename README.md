@@ -36,7 +36,7 @@ Funciona en:
 - Chrome
 - Edge
 - Brave
-- Otros navegadores.
+- Otros navegadores
 
 ---
 
@@ -53,4 +53,4 @@ Si la pantalla aparece en blanco:
 
 ## 👤 Autor
 
-- Este proyecto pertenece a **PeytonPlayz595**
+- Este proyecto pertenece a **PeytonPlayz595**.
